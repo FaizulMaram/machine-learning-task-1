@@ -29,6 +29,23 @@ The model uses the following features:
 - Living Area (`living_in_m2`)
 - Real Bathrooms
 
+# The housing price prediction task follows these steps:
+1. Load the training and testing datasets.
+2. Separate input features and target values.
+3. Standardize features using training-set statistics.
+4. Implement Gradient Descent.
+5. Compare different learning rates.
+6. Train the model using the Normal Equation.
+7. Evaluate both approaches on the test dataset.
+8. Compare the models with a mean baseline.
+9. Visualize actual and predicted housing prices.
+
+# Evaluation Metrics
+The following metrics are used to evaluate regression performance:
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- R² Score
+
 ### Q3 — Polynomial Interpolation and Regression
 Estimation of projectile force at a given velocity using:
 
