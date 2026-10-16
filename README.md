@@ -4,7 +4,7 @@ This repository contains the implementation of Machine Learning Task 1 for the D
 
 The task covers the mathematical foundations and practical implementation of regression and classification techniques using Python.
 
-## Overview
+## Project Overview
 
 ### Q1 — Regression Derivations
 Derivation of gradient descent/ascent update rules from the maximum likelihood perspective for:
