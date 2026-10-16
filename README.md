@@ -1,4 +1,4 @@
-# Machine Learning Task 1
+# Machine Learning
 
 This repository contains the implementation of Machine Learning Task 1 for the DS-550 Machine Learning course.
 
